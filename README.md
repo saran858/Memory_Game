@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Memory_Game
+Welcome to the Memory Game! This is a fun and engaging memory match game where players flip over cards to find pairs. It’s a great way to test and improve your memory skills while having fun.
+>>>>>>> 97c8b1d5019cc2a7c05d2d1a44fbf00130758723

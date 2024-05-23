@@ -12,6 +12,7 @@ const ImageBoard = ({ images }) => {
     }
     setFlippedIndex(index);
   };
+  
 
   const isImageVisible = (index) => {
     if (foundImages[index] === true) {
